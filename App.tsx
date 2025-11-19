@@ -63,7 +63,7 @@ const App: React.FC = () => {
                 
                 <footer className="text-center mt-12 text-sm text-[var(--color-text-secondary)]">
                     <p>Copyright © 2025 The Half Idea. All rights reserved.</p>
-                    <p>Suhas Palukuri & Kavya Arohi</p>
+                    <p><a href="https://www.linkedin.com/in/suhaspalukuri/">Suhas Palukuri</a> & <a href="https://www.linkedin.com/in/kavyaarohi/">Kavya Arohi</a></p>
                 </footer>
             </main>
         </div>
